@@ -1,0 +1,10 @@
+open chrome
+
+close chrome
+open gmail
+close gmail
+open drive
+close drive
+edit file
+stop dictation
+exit
